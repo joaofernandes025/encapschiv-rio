@@ -225,7 +225,7 @@ function App() {
             <div className="bg-white p-4 md:p-6 rounded-lg border-l-4 border-orange-500 shadow-md">
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=150" 
+                  src="https://i.imgur.com/CHKsLhu.jpeg" 
                   alt="Ana Costa" 
                   className="w-12 h-12 md:w-16 md:h-16 rounded-full mr-4"
                 />
