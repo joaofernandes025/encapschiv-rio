@@ -268,9 +268,9 @@ function App() {
                   className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">1 Pote - Tratamento 1 Mês</p>
-                <p className="text-sm text-gray-500 line-through">De R$ 197</p>
-                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 147</p>
-                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 12,74</p>
+                <p className="text-sm text-gray-500 line-through">De R$ 97</p>
+                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 39,90</p>
+                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 3,32</p>
               </div>
               <button className="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 md:py-4 px-4 md:px-6 rounded-lg text-base md:text-lg transition-colors">
                 COMPRAR AGORA
@@ -290,11 +290,11 @@ function App() {
                   className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">Tratamento 3 Meses</p>
-                <p className="text-sm text-gray-500 line-through">De R$ 591</p>
-                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 297</p>
-                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 29,82</p>
+                <p className="text-sm text-gray-500 line-through">De R$ 291</p>
+                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 97,70</p>
+                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 8,14</p>
                 <div className="bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-xs md:text-sm font-bold mt-2">
-                  60% DE DESCONTO
+                  66% DE DESCONTO
                 </div>
                 <p className="text-orange-600 font-bold text-xs md:text-sm mt-2">+ FRETE GRÁTIS</p>
               </div>
@@ -313,11 +313,11 @@ function App() {
                   className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">5 Potes - Tratamento 5 Meses</p>
-                <p className="text-sm text-gray-500 line-through">De R$ 985</p>
-                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 447</p>
-                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 39,90</p>
+                <p className="text-sm text-gray-500 line-through">De R$ 485</p>
+                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-2">R$ 127,70</p>
+                <p className="text-xs md:text-sm text-orange-600">ou 12x de R$ 10,64</p>
                 <div className="bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-xs md:text-sm font-bold mt-2">
-                  55% DE DESCONTO
+                  74% DE DESCONTO
                 </div>
                 <p className="text-orange-600 font-bold text-xs md:text-sm mt-2">+ FRETE GRÁTIS</p>
               </div>
