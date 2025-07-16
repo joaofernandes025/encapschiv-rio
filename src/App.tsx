@@ -265,7 +265,7 @@ function App() {
                 <img 
                   src="https://i.imgur.com/eobjHnm.png" 
                   alt="1 Pote Articulazen" 
-                  className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
+                  className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">1 Pote - Tratamento 1 Mês</p>
                 <p className="text-sm text-gray-500 line-through">De R$ 197</p>
@@ -285,9 +285,9 @@ function App() {
               <h3 className="text-xl md:text-2xl font-bold text-center mb-4 text-orange-800 mt-2 md:mt-4">LEVE 3 POTES</h3>
               <div className="text-center mb-6">
                 <img 
-                  src="https://i.imgur.com/eobjHnm.png" 
+                  src="https://i.imgur.com/Mnogy18.png" 
                   alt="3 Potes Articulazen" 
-                  className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
+                  className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">Tratamento 3 Meses</p>
                 <p className="text-sm text-gray-500 line-through">De R$ 591</p>
@@ -310,7 +310,7 @@ function App() {
                 <img 
                   src="https://i.imgur.com/eobjHnm.png" 
                   alt="5 Potes Articulazen" 
-                  className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
+                  className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
                 <p className="text-base md:text-lg text-orange-600 mb-2">5 Potes - Tratamento 5 Meses</p>
                 <p className="text-sm text-gray-500 line-through">De R$ 985</p>
