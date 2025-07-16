@@ -137,7 +137,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
             <div className="w-full md:w-1/2">
               <img 
-                src="/articulazen-woman.jpg" 
+                src="https://i.imgur.com/hwP8s57.jpg" 
                 alt="Articulazen - Pote do Produto" 
                 className="w-full max-w-sm mx-auto rounded-lg shadow-2xl"
               />
@@ -263,7 +263,7 @@ function App() {
               <h3 className="text-xl md:text-2xl font-bold text-center mb-4 text-orange-800">EXPERIMENTE</h3>
               <div className="text-center mb-6">
                 <img 
-                  src="/ChatGPT Image 16_07_2025, 02_13_50.png" 
+                  src="https://i.imgur.com/hwP8s57.jpg" 
                   alt="1 Pote Articulazen" 
                   className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
                 />
@@ -285,7 +285,7 @@ function App() {
               <h3 className="text-xl md:text-2xl font-bold text-center mb-4 text-orange-800 mt-2 md:mt-4">LEVE 3 POTES</h3>
               <div className="text-center mb-6">
                 <img 
-                  src="/ChatGPT Image 16_07_2025, 02_13_50.png" 
+                  src="https://i.imgur.com/hwP8s57.jpg" 
                   alt="3 Potes Articulazen" 
                   className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
                 />
@@ -308,7 +308,7 @@ function App() {
               <h3 className="text-xl md:text-2xl font-bold text-center mb-4 text-orange-800">COMPLETO</h3>
               <div className="text-center mb-6">
                 <img 
-                  src="/ChatGPT Image 16_07_2025, 02_13_50.png" 
+                  src="https://i.imgur.com/hwP8s57.jpg" 
                   alt="5 Potes Articulazen" 
                   className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-4 rounded"
                 />
