@@ -137,7 +137,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
             <div className="w-full md:w-1/2">
               <img 
-                  src="https://i.imgur.com/PQfnT3P.jpeg" 
+                  src="https://i.imgur.com/eobjHnm.png" 
                 alt="Articulazen - Pote do Produto" 
                 className="w-full max-w-sm mx-auto rounded-lg shadow-2xl"
               />
@@ -308,7 +308,7 @@ function App() {
               <h3 className="text-xl md:text-2xl font-bold text-center mb-4 text-orange-800">COMPLETO</h3>
               <div className="text-center mb-6">
                 <img 
-                  src="https://i.imgur.com/eobjHnm.png" 
+                  src="https://i.imgur.com/PQfnT3P.jpeg" 
                   alt="5 Potes Articulazen" 
                   className="w-32 h-32 md:w-48 md:h-48 mx-auto mb-4 rounded"
                 />
